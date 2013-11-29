@@ -8,8 +8,8 @@
     <ProjectGuid>{502FBBDE-CA76-44FA-80F5-ACB7C01F6A86}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ppt2txt</RootNamespace>
-    <AssemblyName>ppt2txt</AssemblyName>
+    <RootNamespace>Ppt2txt</RootNamespace>
+    <AssemblyName>Ppt2txt</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
